@@ -31,18 +31,18 @@ function App() {
           onScrollToContact={() => scrollToRef(contactRef)}
         />
         </div>
-        <div ref={aboutRef}>
-          <About />
-        </div>
-        <div ref={skillRef}>
-          <Skill />
-        </div>
         <div ref={projectsRef}>
           <Projects />
         </div>
+        </div>
+        <div ref={skillRef}>
+          <Skill />
+        <div ref={aboutRef}>
+          <About />
+        </div>
         <div ref={contactRef}>
           <Contact />
-        </div>
+        </div>        
       </div>
     </>
   );

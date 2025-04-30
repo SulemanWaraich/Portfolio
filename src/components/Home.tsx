@@ -30,7 +30,7 @@ const Home: React.FC<HomeProps> = (
             </p>
           </div>
           <div className="btn flex justify-center">
-            <a href="/Main_Resume.pdf" download>
+            <a href="/Resume_2.pdf" download>
             <button className="border-2 border-white px-4 py-2 md:text-xl text-xl text-white font-bold hover:bg-black rounded-lg">
               Download Resume
             </button>
@@ -152,25 +152,10 @@ const Home: React.FC<HomeProps> = (
       LinkedIn
     </span>
             </a>
-            <a href="https://www.instagram.com/suleman_waraich/?next=%2F" target="blank" className="relative group flex items-center cursor-pointer">
-         
-              <div className="bg-white p-2 rounded-3xl group-hover:bg-sky-400 group-hover:text-white">
-                <svg
-                  stroke="currentColor"
-                  fill="currentColor"
-                  stroke-width="0"
-                  viewBox="0 0 448 512"
-                  height="1.5em"
-                  width="1.5em"
-                  xmlns="http://www.w3.org/2000/svg"
-                >
-                  <path d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path>
-                </svg>
-              </div>
-              <span className="absolute right-14 bg-sky-400 text-white p-2 rounded-md opacity-0 group-hover:opacity-100 transition-opacity duration-300">
-      Instagram
-    </span>
-            </a>
+
+            
+           
+
             <a href="https://github.com/SulemanWaraich" target="blank" className="relative group flex items-center cursor-pointer">
           
               <div className="bg-white p-2 rounded-3xl group-hover:bg-sky-400 group-hover:text-white">
@@ -190,6 +175,47 @@ const Home: React.FC<HomeProps> = (
       Github
     </span>
             </a>
+
+            <a href="https://x.com/Suleman_devx" target="blank" className="relative group flex items-center cursor-pointer">
+         
+         <div className="bg-white p-2 rounded-3xl group-hover:bg-sky-400 group-hover:text-white">
+           <svg
+  stroke="currentColor"
+  fill="currentColor"
+  stroke-width="0"
+  viewBox="0 0 512 512"
+  height="1.5em"
+  width="1.5em"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <path d="M459.4 151.7c.3 4.5.3 9 .3 13.6 0 138.7-105.6 298.7-298.7 298.7-59.5 0-114.7-17.2-161.1-47 8.4 1 16.8 1.3 25.5 1.3 49.1 0 94.2-16.6 130.1-44.8-46-1-84.8-31.2-98.1-72.8 6.5 1 13 1.6 20 1.6 9.4 0 18.7-1.3 27.5-3.6-48.1-9.7-84.3-52.1-84.3-103v-1.3c14.3 7.9 30.9 12.7 48.5 13.3-28.7-19.2-47.5-51.9-47.5-89.1 0-19.6 5.2-37.9 14.3-53.6 52.3 64.3 130.4 106.5 218.5 111-1.6-7.9-2.6-16.1-2.6-24.4 0-59.4 48.1-107.5 107.5-107.5 30.9 0 58.7 13 78.3 33.8 24.4-4.5 47.5-13.6 68.1-25.7-8.1 25.4-25.4 46.7-47.8 60.3 21.6-2.3 42.2-8.4 61.3-17-14.3 21.3-32.2 40.2-52.6 55.2z"></path>
+</svg>
+
+         </div>
+         <span className="absolute right-14 bg-sky-400 text-white p-2 rounded-md opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+ Twitter
+</span>
+            </a>
+
+            <a href="https://hashnode.com/@suleman240" target="blank" className="relative group flex items-center cursor-pointer">
+           
+           <div className="bg-white p-2 rounded-3xl group-hover:bg-sky-400 group-hover:text-white">
+           <svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 337 337"
+  height="1.5em"
+  width="1.5em"
+  fill="currentColor"
+>
+  <path d="M168.3 0c18.5 0 36.3 7.3 49.5 20.5l98.7 98.7c27.3 27.3 27.3 71.7 0 99l-98.7 98.7c-27.3 27.3-71.7 27.3-99 0l-98.7-98.7c-27.3-27.3-27.3-71.7 0-99L118.7 20.5C131.9 7.3 149.8 0 168.3 0zm0 87.5c-44.6 0-80.8 36.2-80.8 80.8s36.2 80.8 80.8 80.8 80.8-36.2 80.8-80.8-36.2-80.8-80.8-80.8z"/>
+</svg>
+{" "}
+           </div>
+           <span className="absolute right-14 bg-sky-400 text-white p-2 rounded-md opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+   Hashnode
+ </span>
+         </a>
+
             <a href="mailto:tech4you330@gmail.com" target="blank" className="relative group flex items-center cursor-pointer">
          
               <div className="bg-white p-2 rounded-3xl group-hover:bg-sky-400 group-hover:text-white">
@@ -209,28 +235,12 @@ const Home: React.FC<HomeProps> = (
       Email
     </span>
             </a>
-            <a href="https://www.facebook.com/profile.php?id=100060714416367" target="blank" className="relative group flex items-center cursor-pointer">
-           
-              <div className="bg-white p-2 rounded-3xl group-hover:bg-sky-400 group-hover:text-white">
-                <svg
-                  stroke="currentColor"
-                  fill="currentColor"
-                  stroke-width="0"
-                  viewBox="0 0 320 512"
-                  height="1.5em"
-                  width="1.5em"
-                  xmlns="http://www.w3.org/2000/svg"
-                >
-                  <path d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z"></path>
-                </svg>{" "}
-              </div>
-              <span className="absolute right-14 bg-sky-400 text-white p-2 rounded-md opacity-0 group-hover:opacity-100 transition-opacity duration-300">
-      Facebook
-    </span>
-            </a>
+
+         
           </div>
         </aside>
       </section>
+
     </div>
   );
 }
